@@ -1,5 +1,5 @@
 # Dubai Cookie Trend MCP
-
+ 
 두바이 쫀득 쿠키 및 유행 디저트/음식/카페 트렌드 데이터를 수집하고 분석하는 MCP(Model Context Protocol) + Kafka 파이프라인 프로젝트입니다.
 
 ## Architecture
